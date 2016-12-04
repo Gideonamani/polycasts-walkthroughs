@@ -1,0 +1,25 @@
+{
+  "name": "Core Icons -- Polycasts 01",
+  "authors": [
+    "Gideonamani <gmarress@gmail.com>"
+  ],
+  "description": "Tip-toeing through Polymer",
+  "main": "",
+  "keywords": [
+    "Polymer",
+    "WebApps"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "core-icons": "Polymer/core-icons#^0.5.6"
+  }
+}
