@@ -1,0 +1,26 @@
+{
+  "name": "Iconset -- Polycasts 02",
+  "homepage": "https://github.com/Gideonamani/polycasts-walkthroughs",
+  "authors": [
+    "Gideonamani <gmarress@gmail.com>"
+  ],
+  "description": "Trying out the Iconset element",
+  "main": "",
+  "keywords": [
+    "Polymer",
+    "WebApp",
+    "Iconset"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "iron-iconset": "PolymerElements/iron-iconset#^1.0.5",
+    "iron-iconset-svg": "PolymerElements/iron-iconset-svg#^1.1.0"
+  }
+}
