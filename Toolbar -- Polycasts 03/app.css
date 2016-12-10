@@ -7,3 +7,7 @@ paper-toolbar {
 	background-color: #7c32cc
 	color: white;
 }
+
+paper-progress.full-width {
+	width: 100%;
+}
