@@ -1,0 +1,30 @@
+{
+  "name": "App Layout -- Polycasts 04 - 05",
+  "homepage": "https://github.com/Gideonamani/polycasts-walkthroughs",
+  "authors": [
+    "Gideonamani <gmarress@gmail.com>"
+  ],
+  "description": "Getting more acquainted with using polymer elements as building blocks for web apps.",
+  "main": "index.html",
+  "keywords": [
+    "Polymer",
+    "Web",
+    "App",
+    "App",
+    "Layout"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "app-layout": "PolymerElements/app-layout#^0.10.6",
+    "iron-icons": "PolymerElements/iron-icons#^1.2.0",
+    "paper-icon-button": "PolymerElements/paper-icon-button#^1.1.4",
+    "paper-progress": "PolymerElements/paper-progress#^1.0.11"
+  }
+}
